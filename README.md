@@ -1,4 +1,4 @@
-![Header](https://www.mediafire.com/view/q95vt9e9x31n8gx)
+![Header](https://raw.githubusercontent.com/CodewithsushilOfficial/CodewithsushilOfficial/main/banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Sushil Kumar Kushwaha</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
